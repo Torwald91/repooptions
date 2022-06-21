@@ -5,5 +5,5 @@ import sys
 
 print ("Путь на данный момент:")
 os.system('pwd')
-print ("Содержимое файлов:")
+print ("Содержимое каталогов:")
 os.system('ls')
